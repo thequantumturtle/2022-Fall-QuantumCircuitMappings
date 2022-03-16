@@ -7,7 +7,7 @@ courseName: "Quantum Circuit Mappings"
 subtitle: "17-620 — Quantum Circuit Mappings — Fall Semester 2022"
 
 # baseurl is the same as the name of the repository
-baseurl: /2022FallQuantumCircuitMappings
+baseurl: /2022-Fall-QuantumCircuitMappings
 
 # url where the required reading is available to download
 docsUrl: "https://www.amazon.com/_/dp/1492039683?tag=oreilly20-20" 
