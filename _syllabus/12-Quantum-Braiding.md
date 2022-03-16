@@ -5,7 +5,7 @@ title: Boy, Betty's Better Braiding Builds Better Bonds Between Berry's Bariums
 ---
 
 ### Summary
-You might not have wanted it! But here is another error corrction algorithm!
+You might not have wanted it! But here is another error correction algorithm!
 
 
 ### Notes
