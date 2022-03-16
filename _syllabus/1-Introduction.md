@@ -1,14 +1,13 @@
 ---
 week: 1
-day: October 18 
-title: Introduction
+day: October 24 
+title: Introduction Inarguable Instagates Interest
 # tags: [hello]
 ---
 
 
 ## Before Class
-
-### Books
+Materials for this course are sourced from all aspects of literature. No one book will be used, but I do enjoy and suggest the books below:
 #### Main Book: 
 - [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)   
     We will be working mostly out of this book.
@@ -23,4 +22,4 @@ title: Introduction
 - Reminder to bring computer to class.
 
 ### Summary
-We will be going over class requirements and expectations. Then we will give a frame work for where quantum computers come from and why as an industry we are putting so much effort into such a difficult endeavour. 
+We will be going over class requirements and expectations. We will then review Quantum Computers, their niche in the world and why optimal circuit mappings will aid their ability to fill said niche.

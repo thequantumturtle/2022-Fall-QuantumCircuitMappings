@@ -1,2 +1,2 @@
-# QuantumFall2021
-Quantum Class at CMU. 2021
+# 2022 Fall Quantum Circuit Mappings
+Website and Syllabus for CMU mini course Quantum Circuit Mappings
